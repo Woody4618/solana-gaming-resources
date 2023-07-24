@@ -36,11 +36,12 @@ A curated list of resources to start building games on Solana.
     - [Playground](https://beta.solpg.io/tutorials/tiny-adventure)
     - [Video walkthrough](https://www.youtube.com/watch?v=_vQ3bSs3svs&t=976s&ab_channel=SolPlay)
   - [On-chain chess (Anchor + Unity)](https://github.com/magicblock-labs/Solana-Unity-Chess) - Fully on-chain chess, playable from different clients
+  - [On-chain 2048 (Anchor + Unity)]([https://github.com/magicblock-labs/Solana-Unity-Chess](https://github.com/solana-developers/solana-2048)) - Fully on-2048, using session key and having a highscore which can rewards players using clockwork threads.
   
  <h3>Other examples</h3>
 
 - [Other on-chain games examples](https://github.com/solana-developers/solana-game-starter-kits)
-  - [Energy system & Gum Session keys](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
+  - [Energy system & Gum Session keys](https://github.com/solana-developers/solana-game-starter-kits/tree/main/lumberjack)
     - [Energy system video walkthrough](https://www.youtube.com/watch?v=YYQtRCXJBgs&t=3s&ab_channel=Solana)
     - [Session Keys video walkthrough](https://www.youtube.com/watch?v=oKvWZoybv7Y&ab_channel=Solana)
   - [Idle game using clockwork threads](https://github.com/solana-developers/solana-game-starter-kits/tree/main/idle-game)
